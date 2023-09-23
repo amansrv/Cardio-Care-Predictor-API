@@ -87,7 +87,7 @@ def index():
             '<h3>It uses parameters such as Age, Sex, Blood Pressure, Diabetes, Glucose and Heart rate for prediction. </h3>'+
             '<h3> This api uses scikit-learn for training the ML model and Flask for serving the webservice. It is trained on a Logistic Regression model with ~88% accuracy</h3>'+
             '<p>For more details view <a href="https://github.com/agoel00/HeartDiseasePredictionAPI">source</a></p>' +
-            '<p>Made with 💙 by <a href="https://github.com/agoel00">Anmol Goel</a></p>')
+            '<p>Made with 💙 by <a href="https://github.com/amansrv">Aman Srivastava</a></p>')
 
 if __name__ == '__main__':
     print('Model loaded successfully!')
