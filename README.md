@@ -57,7 +57,7 @@
 1. Clone the repository
 
    ```bash
-	   git clone https://github.com/amansrv/Cardio-Care-Predictor-API.git
+      git clone https://github.com/amansrv/Cardio-Care-Predictor-API.git
 	
       cd Cardio-Care-Predictor-API
    ```
